@@ -1,0 +1,21 @@
+{
+  "name": "aws-rekognition-with-node-js",
+  "version": "1.0.0",
+  "description": "Simple application example, using Node Js and API Amazon Rekognition. Index new faces, delete faces and the main functionality facial recognition.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Wanderson Araujo",
+  "license": "GNU",
+  "devDependencies": {
+    "aws-sdk": "2.254.1",
+    "body-parser": "1.18.3",
+    "cookie-parser": "1.4.3",
+    "express": "4.16.3",
+    "fs-extra": "6.0.1",
+    "node-uuid": "1.4.8",
+    "path": "0.12.7"
+  }
+}
