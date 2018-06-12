@@ -77,7 +77,7 @@ Cache-Control: no-cache
 face_id= <string with face id to delete>
 
 ```
-***Put param photo whitout "image/png;base64,"*****
+***Put param photo whitout "image/png;base64,"***
 
 ## Built With
 
