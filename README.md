@@ -58,7 +58,7 @@ Cache-Control: no-cache
 photo=<source with image base 64>
 ```
 
-* **POST /detect-face**
+* **POST /index-new-face**
 ```
 POST /index-new-face HTTP/1.1
 Host: localhost:3000
@@ -67,7 +67,7 @@ Cache-Control: no-cache
 photo=<source with image base 64>&id_user=<id of user in your data base>
 ```
 
-* **POST /detect-face**
+* **POST /delete-face**
 ```
 POST /delete-face HTTP/1.1
 Host: localhost:3000
