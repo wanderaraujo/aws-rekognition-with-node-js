@@ -48,7 +48,7 @@ The application running at port 3000
 ## Calling the methods 
 Using Postman
 
-* **POST/detect-face**
+* **POST /detect-face**
 ```
 POST /detect-face HTTP/1.1
 Host: localhost:3000
